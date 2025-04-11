@@ -1,0 +1,38 @@
+.icon-about{
+    font-size: 32px;
+    display: flex !important;
+}
+.icon-services{
+    font-size: 24px;
+}
+.box-main:hover .services-main-icon {
+    background: #fff;
+    border: 2px solid #ff5821;
+}
+.box-main:hover .icon-services {
+    color: #ff5821;
+}
+.main-values:hover .info-values {
+    background: #ff5821;
+}
+.main-values:hover .title-values {
+    color: #fff;
+}
+.main-values:hover .text-values {
+    color: #fff;
+}
+.main-values:hover .btn-values {
+    color: #fff;
+}
+.icon-size-team{
+    font-size: 18px;
+}
+.team-main:hover .social-team {
+    opacity: 1;
+}
+.icon-contact{
+    font-size: 25px;
+}
+.main-icon-contact{
+    display: flex !important;
+}
